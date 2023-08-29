@@ -29,6 +29,7 @@ This program showcases the integrity of Bitcoin blocks by connecting to the P2P 
 ```bash
 python3 blockchain.py
 
+```
 ## Resources
 
 Explore these valuable resources to deepen your understanding of Bitcoin and blockchain technology:
